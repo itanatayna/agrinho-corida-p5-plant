@@ -7,3 +7,4 @@ Como jogar:
 Você usa teclas do computados como guia assim ele vai correr, você tem que chegar antes dos outros jogadore e antes do tempo acabar contará pontos.
 
 Regras
+É não trapacear e não esquecer do tempo.
